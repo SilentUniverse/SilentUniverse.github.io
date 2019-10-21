@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://github.com/SilentUniverse/SilentUniverse.github.io/sitemap.xml
